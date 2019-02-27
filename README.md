@@ -1,4 +1,4 @@
-Tiresias -- A GPU Cluster Manager for Distributed Deep Learning without complete job information
+Tiresias -- A GPU Cluster Manager for Distributed Deep Learning Training without complete job information
 ====
 
 Tiresias is a GPU cluster resource manager that aims at minimizing distributed deep learning (DDL) jobs’ completion times with partial or no a priori knowledge. It does not rely on any intermediate DL algorithm states (e.g., training loss values) or framework specifics (e.g., tensors-to-parameter server mapping).
@@ -25,8 +25,11 @@ What's in this repository?
 
 1. Discrete-time simulator of GPU cluster manager for DL training jobs (with both the job scheduler and placement scheme)
 
-2. **coming soon ...**
+**Coming soon ...**  
 
+2. Network(RDMA)-level message profiler for DL models
+
+3. ...
 
 Others
 -----------
