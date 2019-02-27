@@ -28,4 +28,10 @@ What's in this repository?
 2. **coming soon ...**
 
 
+Others
+-----------
+1. What's **LAS** (Least-Attained Service) algorithm?  
+    Nuyens, Misja, and Adam Wierman. "The foreground–background queue: a survey." Performance evaluation 65.3-4 (2008): 286-307.
 
+2. What's **Gittins Index** policy?  
+    Gittins, John, Kevin Glazebrook, and Richard Weber. Multi-armed bandit allocation indices. John Wiley & Sons, 2011.
